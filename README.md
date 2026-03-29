@@ -4,4 +4,5 @@ Install
 
 home/.config/fastfetch/config.jsonc
 
-[ test }
+``bash
+hahaha
