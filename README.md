@@ -6,7 +6,7 @@ home/.config/fastfetch/config.jsonc
 
 ```bash
 
-hahaha
+
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
     "logo": {
